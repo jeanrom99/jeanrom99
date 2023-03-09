@@ -13,6 +13,7 @@
   
 </div>
 
+   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
  [![jean stats](https://github-readme-stats.vercel.app/api?username=jeanrom99)](https://github.com/anuraghazra/github-readme-stats)
 
